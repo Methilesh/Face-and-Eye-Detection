@@ -1,4 +1,4 @@
-Face-and-Eye-Detection
+# Face and Eye Detection
 
 
 Developed a robust face and eye detection system using OpenCV to enhance image analysis capabilities, ensuring accurate identification of facial features.
