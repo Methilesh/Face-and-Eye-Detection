@@ -1,4 +1,6 @@
 #Face-and-Eye-Detection
+
+
 Developed a robust face and eye detection system using OpenCV to enhance image analysis capabilities, ensuring accurate identification of facial features.
 
 Implemented advanced image processing techniques to remove unwanted elements, enhancing the quality of photos and optimizing visual content.
